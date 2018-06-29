@@ -1,3 +1,4 @@
-﻿  Guessing Game.cpp
-c:\users\ali\onedrive\documents\visual studio 2017\projects\guessing game\guessing game\guessing game.cpp(78): warning C4018: '<': signed/unsigned mismatch
-  Guessing Game.vcxproj -> C:\Users\Ali\OneDrive\Documents\Visual Studio 2017\Projects\Guessing Game\Debug\Guessing Game.exe
+﻿  stdafx.cpp
+  Guessing Game.cpp
+d:\users\ali\documents\visual studio 2017\projects\question-game\guessing game\guessing game.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Guessing Game.vcxproj -> D:\Users\Ali\Documents\Visual Studio 2017\Projects\question-game\Debug\Guessing Game.exe
